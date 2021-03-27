@@ -1,1 +1,5 @@
-{"Result":[{"server" :"http://api.youtradebtc.com"} ]}
+{
+    "userId": 1,
+    "id": 1,
+    "title": "Meu serviço funciona"
+  }
