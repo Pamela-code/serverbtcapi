@@ -1,1 +1,4 @@
 https://cdn.jsdelivr.net/gh/paulosergioduff/serverbtcapi/sublocacoes/subloc-server.json
+https://cdn.jsdelivr.net/gh/paulosergioduff/serverbtcapi@master/sublocacoes/subloc-server.json
+
+test other repo
